@@ -1,0 +1,9 @@
+{
+  "dropSpots": ["Frenzy Fields", "Brutal Bastion", "Slappy Shores", "Tilted Towers", "Weeping Woods"],
+  "loadouts": [
+    {"primary": "Red-Eye AR", "secondary": "Maven Shotgun", "utility": "Shield Bubble"},
+    {"primary": "Twin SMG", "secondary": "Thunder Shotgun", "utility": "Grapple Glove"},
+    {"primary": "Heavy Sniper", "secondary": "Suppressor SMG", "utility": "Impulse Grenade"}
+  ],
+  "forecast": "Expect high ping with a storm rolling in near the Citadel."
+}
