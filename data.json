@@ -7,6 +7,6 @@
   ],
   "forecast": "Expect high ping with a storm rolling in near the Citadel.",
   "maps": [
-    {"season": "s1", "image":"https://rachelccurry.github.io/fortnite-companion-data/maps/s1.png", "label": "Season 1"}
+    {"season": "s1", "image":"maps/s1.webp", "label": "Season 1"}
   ]
 }
