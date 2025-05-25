@@ -5,5 +5,8 @@
     {"primary": "Twin SMG", "secondary": "Thunder Shotgun", "utility": "Grapple Glove"},
     {"primary": "Heavy Sniper", "secondary": "Suppressor SMG", "utility": "Impulse Grenade"}
   ],
-  "forecast": "Expect high ping with a storm rolling in near the Citadel."
+  "forecast": "Expect high ping with a storm rolling in near the Citadel.",
+  "maps": [
+    {"season": "s1", "image":"https://rachelccurry.github.io/fortnite-companion-data/maps/s1.png", "label": "Season 1"}
+  ]
 }
