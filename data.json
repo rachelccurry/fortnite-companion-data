@@ -7,6 +7,15 @@
   ],
   "forecast": "Expect high ping with a storm rolling in near the Citadel.",
   "maps": [
-    {"season": "s1", "image":"https://rachelccurry.github.io/fortnite-companion-data/maps/s1.webp", "label": "Season 1"}
+    {"season": "s1", "image":"https://rachelccurry.github.io/fortnite-companion-data/maps/s1.webp", "label": "Season 1"},
+    {"season": "s2", "image":"https://rachelccurry.github.io/fortnite-companion-data/maps/s2.webp", "label": "Season 2"},
+    {"season": "s3", "image":"https://rachelccurry.github.io/fortnite-companion-data/maps/s3.webp", "label": "Season 3"},
+    {"season": "s4", "image":"https://rachelccurry.github.io/fortnite-companion-data/maps/s4.webp", "label": "Season 4"},
+    {"season": "s5", "image":"https://rachelccurry.github.io/fortnite-companion-data/maps/s5.webp", "label": "Season 5"},
+    {"season": "s6", "image":"https://rachelccurry.github.io/fortnite-companion-data/maps/s6.webp", "label": "Season 6"},
+    {"season": "s7", "image":"https://rachelccurry.github.io/fortnite-companion-data/maps/s7.webp", "label": "Season 7"},
+    {"season": "s8", "image":"https://rachelccurry.github.io/fortnite-companion-data/maps/s8.webp", "label": "Season 8"},
+    {"season": "s9", "image":"https://rachelccurry.github.io/fortnite-companion-data/maps/s9.webp", "label": "Season 9"},
+    {"season": "s10", "image":"https://rachelccurry.github.io/fortnite-companion-data/maps/s10.webp", "label": "Season 10"}
   ]
 }
